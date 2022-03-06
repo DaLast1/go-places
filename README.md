@@ -1,3 +1,3 @@
-# go-places
+# Go Places
 
-mern.project
+Share Your Places
